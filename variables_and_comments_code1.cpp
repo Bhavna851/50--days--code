@@ -7,7 +7,7 @@ int main(){
     cout<<"now value of variable is: "<<v<<endl;
     const int c=7;//constant
     cout<<"value of constant is: "<<c<<endl;
-    //c=5; thse line will give an error because the value of constant can never be changed 
+    //c=5; these line will give an error because the value of constant can never be changed 
     return 0;
 
 }
