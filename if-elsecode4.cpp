@@ -22,4 +22,8 @@ int main(){
    }
    return 0;
 }
+output:
+enter marks of student: 
+90
+A
    

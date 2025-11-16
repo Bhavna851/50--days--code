@@ -8,3 +8,7 @@ int main(){
     return 0;
     
 }
+output:
+local variable is: 22
+global variable is: 34
+    

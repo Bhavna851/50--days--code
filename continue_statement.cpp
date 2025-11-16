@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
-/*int main(){
+program 1:
+int main(){
     int i;
     for(i=1;i<=5;i++){
         cout<<i<<endl;
@@ -17,8 +18,8 @@ output:
    3
    4
    5
-   */
-/* int main(){
+  program 2: 
+  int main(){
     int i;
     for(i=1;i<=5;i++){
         if(i==1)
@@ -32,4 +33,4 @@ output:
 3
 4
 5
-*/
+

@@ -12,3 +12,6 @@ int main(){
      return 0;
 
 }
+output:
+value is: 65
+value is: 3

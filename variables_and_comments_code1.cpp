@@ -11,3 +11,8 @@ int main(){
     return 0;
 
 }
+output:
+value of variable is: 2
+now value of variable is: 4
+value of constant is: 7
+    
