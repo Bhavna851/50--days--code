@@ -17,3 +17,6 @@ int main(){
     
     return 0;
 }
+output:
+56789
+98765

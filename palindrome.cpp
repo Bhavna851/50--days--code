@@ -22,3 +22,8 @@ int main(){
     checkpalindrome(s);
     return 0;
 }
+output:
+racecar
+7
+racecar
+palindrome
