@@ -9,10 +9,9 @@ int main(){
     vector <int>v;
     for(int i=1;i<=10;i++){
         if(a%i==0&&b%i==0){
-            cout<<i<<" "<<endl;
-        v.push_back(i);
+         v.push_back(i);
         }
-        }    
+    }    
     cout<<"display elements of vector "<<endl;
     for(int value:v){
         cout<<value<<" "<<endl;
@@ -25,3 +24,8 @@ int main(){
 
     return 0;
 }
+output:
+12 18
+display elements of vector
+1 2 3 6
+HCF of a and b is: 6
