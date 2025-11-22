@@ -20,3 +20,7 @@ using namespace std;
      }
      return 0;
    }
+output:
+3 frequency is: 1
+2 fresquency is: 2
+1 frequency is:  2
