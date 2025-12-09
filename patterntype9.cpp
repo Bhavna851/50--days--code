@@ -5,7 +5,7 @@ void print1(int n){
         for(int j=0;j<n-i-1;j++){
             cout<<" ";
         }
-        for(int j=0;j<2*i+1;i++){
+        for(int j=0;j<2*i+1;j++){
             cout<<"*";
         }
         for(int j=0;j<n-i-1;j++){
@@ -19,7 +19,7 @@ void print2(int n){
         for(int j=0;j<i;j++){
             cout<<" ";
         }
-        for(int j=0;j<2*n-(2*i+1);i++){
+        for(int j=0;j<2*n-(2*i+1);j++){
             cout<<"*";
         }
         for(int j=0;j<i;j++){
