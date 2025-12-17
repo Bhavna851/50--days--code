@@ -11,4 +11,12 @@ int main(){
         }
         cout<<endl;
     }
+    return 0;
 }
+output:
+5
+A B C D E 
+A B C D 
+A B C 
+A B 
+A
