@@ -7,7 +7,7 @@ int main(){
         sum+=i;
     }
     cout<<sum<<endl;
-    return 0;
+    return 0; 
 }
 output:
 55
