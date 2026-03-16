@@ -20,7 +20,7 @@ class hello{
 int main(){
     hello a1,a2;
     {
-        hello a3,a4;
+        hello a3,a4; 
     }
     return 0;
 }
